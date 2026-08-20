@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=header"/>
 
-Visitantes do Perfil
-![Visitor Count](https://profile-counter.glitch.me/[EraldoJr-13]/count.svg)
+![Visualizações](https://komarev.com)
+
 
  ### Main skills: ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp; ![SQL](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=sql&labelColor=0D1117)&nbsp;
 
